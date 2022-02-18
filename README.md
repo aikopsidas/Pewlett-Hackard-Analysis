@@ -13,7 +13,7 @@ With our new mad skills at SQL this was a complete cake-walk.
   - Bob's manager was not wrong, at this very moment we have 72,458 employees gathering in a wave that will crush the coast of our business
 
 
-  ![](https://github.com/aikopsidas/Pewlett-Hackard-Analysis/blob/9b69419b26a0552591064ce41af200830ffa0d37/Data/total set to retire.PNG)
+  ![](https://github.com/aikopsidas/Pewlett-Hackard-Analysis/blob/e73cfec684fa90cc33bbe2a43bacb29ce27e5067/Data/total%20set%20to%20retire.PNG)
   - To top it off, we are losing a hurricane of knowledge with 25,916 Senior Engineers poised to retire (that's is 36% of our soon to be retirees!). 
   
   ![](https://github.com/aikopsidas/Pewlett-Hackard-Analysis/blob/9b69419b26a0552591064ce41af200830ffa0d37/Data/retiring_titles.PNG)
