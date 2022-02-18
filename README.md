@@ -13,19 +13,19 @@ With our new mad skills at SQL this was a complete cake-walk.
   - Bob's manager was not wrong, at this very moment we have 72,458 employees gathering in a wave that will crush the coast of our business
 
 
-  ![](sum picure here)
+  ![](https://github.com/aikopsidas/Pewlett-Hackard-Analysis/blob/9b69419b26a0552591064ce41af200830ffa0d37/Data/total set to retire.PNG)
   - To top it off, we are losing a hurricane of knowledge with 25,916 Senior Engineers poised to retire (that's is 36% of our soon to be retirees!). 
   
-  ![](list of retirees here)
+  ![](https://github.com/aikopsidas/Pewlett-Hackard-Analysis/blob/9b69419b26a0552591064ce41af200830ffa0d37/Data/retiring_titles.PNG)
 ### Employees Eligable for Mentorship 
   - The total amount of employees eligable for mentorship is 1549
 
 
-  ![](mentor-eligbility total)
+  ![](https://github.com/aikopsidas/Pewlett-Hackard-Analysis/blob/9b69419b26a0552591064ce41af200830ffa0d37/Data/total mentor.PNG)
   - Review of those that are eligiable for the mentorship show the highest numbers for Senior Staff and Engineers
 
 
-  ![](mentor-list here)
+  ![](https://github.com/aikopsidas/Pewlett-Hackard-Analysis/blob/9b69419b26a0552591064ce41af200830ffa0d37/Data/mentor_titles.PNG)
 
 
 ## Summary: 
