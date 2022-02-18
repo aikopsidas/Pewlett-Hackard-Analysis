@@ -10,7 +10,7 @@ With our new mad skills at SQL this was a complete cake-walk.
 
 ## Results:
 ### Employees Set to Retire 
-  - Bob's manager was not wrong, at this very moment we have 72,458 employees gathering in a wave that will crush the coast of our business
+  - Bob's manager was not wrong, at this very moment we have 72,458 employees gathering in a wave that will crush the coast of our business.
   
   ![](https://github.com/aikopsidas/Pewlett-Hackard-Analysis/blob/283fab3fbf227aa4384010980f0d4fec71b2ccaa/Data/total_set_to_retire.PNG)
   
@@ -19,11 +19,11 @@ With our new mad skills at SQL this was a complete cake-walk.
   ![](https://github.com/aikopsidas/Pewlett-Hackard-Analysis/blob/9b69419b26a0552591064ce41af200830ffa0d37/Data/retiring_titles.PNG)
   
 ### Employees Eligable for Mentorship 
-  - The total amount of employees eligable for mentorship is 1549
+  - The total amount of employees eligable for mentorship is 1549.
 
   ![](https://github.com/aikopsidas/Pewlett-Hackard-Analysis/blob/69b4b22433d402cba94ba444b0a9ccac867a615d/Data/total_mentor.PNG)
 
-  - Review of those that are eligiable for the mentorship show the highest numbers for Senior Staff and Engineers
+  - Review of those that are eligiable for the mentorship show the highest numbers for Senior Staff and Engineers.
 
   ![](https://github.com/aikopsidas/Pewlett-Hackard-Analysis/blob/9b69419b26a0552591064ce41af200830ffa0d37/Data/mentor_titles.PNG)
 
