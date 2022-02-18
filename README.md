@@ -11,15 +11,24 @@ With our new mad skills at SQL this was a complete cake-walk.
 ## Results:
 ### Employees Set to Retire 
   - Bob's manager was not wrong, at this very moment we have 72,458 employees gathering in a wave that will crush the coast of our business
+
+
   ![](sum picure here)
   - To top it off, we are losing a hurricane of knowledge with 25,916 Senior Engineers poised to retire (that's is 36% of our soon to be retirees!). 
+  
   ![](list of retirees here)
 ### Employees Eligable for Mentorship 
   - The total amount of employees eligable for mentorship is 1549
+
+
   ![](mentor-eligbility total)
   - Review of those that are eligiable for the mentorship show the highest numbers for Senior Staff and Engineers
+
+
   ![](mentor-list here)
+
+
 ## Summary: 
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+  - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+    -      
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
